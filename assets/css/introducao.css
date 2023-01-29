@@ -47,3 +47,9 @@
         display: none;
     }
 }
+
+.logo {
+    font-family: 'caveat';
+    font-size: 50px;
+    color: #1c1a4d;
+}
