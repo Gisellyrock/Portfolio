@@ -3,6 +3,8 @@
 </p>
 <h1 align="center"> The Little Sheep </h1>
 
+#Portfólio
+- Neste projeto falo sobre minha formação academica e minhas experiências dando o destaque para o meu projeto The Little Sheep ou As Ovelinhas.
 
 # Deploy
 https://rococo-madeleine-4abfdc.netlify.app/
