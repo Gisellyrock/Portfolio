@@ -12,7 +12,6 @@ https://rococo-madeleine-4abfdc.netlify.app/
 
 <img width="1433" alt="Captura de Tela 2023-02-01 às 16 47 12" src="https://user-images.githubusercontent.com/104739434/216147860-ad3d3a16-80a4-4d01-bbf5-d1434ccaaed4.png">
 
-<img width="1433" alt="Captura de Tela 2023-02-01 às 16 47 29" src="https://user-images.githubusercontent.com/104739434/216147872-8b541759-ff33-4708-9f4a-2c6ae6b3f36a.png">
 
 <img width="1433" alt="Captura de Tela 2023-02-01 às 16 47 44" src="https://user-images.githubusercontent.com/104739434/216147899-afb928c1-b0ec-4ce6-add2-ee0261f711a2.png">
 
